@@ -1,1 +1,19 @@
-# anydesk-id-reset
+# AnyDesk ID Reset Tool
+
+A Windows batch script to reset AnyDesk ID by clearing its configuration and restarting the service.
+
+> ⚠️ This tool is **not affiliated** with AnyDesk GmbH. Use at your own discretion.
+
+## Features
+- Stop and restart AnyDesk service.
+- Delete `service.conf` to force a new ID.
+- Backup and restore `user.conf` and `thumbnails`.
+- Fully automated, no Python or dependencies required.
+
+## Usage
+1. Download the script.
+2. Right-click `Anydesk_Reset.bat` → **Run as Administrator**
+3. Wait for the confirmation message: ID reset successfully.
+
+## License
+MIT — Free to use, modify and distribute.
