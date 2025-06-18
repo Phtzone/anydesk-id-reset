@@ -1,5 +1,7 @@
 # AnyDesk ID Reset Tool
 
+![image](https://github.com/user-attachments/assets/424929a7-e6b1-4d5e-bf64-bd2e279bd2fd)
+
 A Windows batch script to reset AnyDesk ID by clearing its configuration and restarting the service.
 
 > ⚠️ This tool is **not affiliated** with AnyDesk GmbH. Use at your own discretion.
