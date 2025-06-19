@@ -16,6 +16,3 @@ A Windows batch script to reset AnyDesk ID by clearing its configuration and res
 1. Download the script.
 2. Right-click `Anydesk_Reset.bat` → **Run as Administrator**
 3. Wait for the confirmation message: ID reset successfully.
-
-## License
-MIT — Free to use, modify and distribute.
